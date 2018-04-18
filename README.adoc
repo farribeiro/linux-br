@@ -1,1 +1,12 @@
 = linuxbr-pautas
+
+Este projeto serve para agregamento de pautas de notícias para o futuro sistema
+de gerenciamento de conteúdo
+
+= Como submeter sua pauta
+
+Envie-nos, um Pull Request —abreviado, PR— para revisão e publicação.
+
+= Licenciamento
+
+Este projeto, todo conteúdo
