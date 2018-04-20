@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 baseurl: ""
 
 # the base hostname & protocol for your site
-url: "http://catolico.farribeiro.com.br"
+url: "http://farribeiro.github.io/linuxbr-pautas"
 
 # premalink path
 permalink: /:year/:month/:day/:title/
