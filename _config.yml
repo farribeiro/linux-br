@@ -6,7 +6,7 @@ baseurl: ""
 name: "LinuxBR Pautas"
 
 # the base hostname & protocol for your site
-url: "https://farribeiro.github.io/linuxbr-pautas"
+url: "https://farribeiro.github.io/linux-br"
 
 # premalink path
 permalink: /:year/:month/:day/:title/
