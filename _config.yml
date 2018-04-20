@@ -1,1 +1,24 @@
 theme: jekyll-theme-minimal
+
+# the subpath of your site, e.g. /blog/
+baseurl: ""
+
+# the base hostname & protocol for your site
+url: "http://catolico.farribeiro.com.br"
+
+# premalink path
+permalink: /:year/:month/:day/:title/
+
+# CSS folder
+# css_folder: css
+
+# paginator configuration
+paginate: 10
+paginate_path: page/:num
+
+# tags path
+tags_path: /tags
+
+gems: [jekyll-paginate]
+
+highlighter: true
