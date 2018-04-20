@@ -1,0 +1,13 @@
+---
+layout:		default
+title:		Araçatuba Católico
+permalink:	/arquivo/
+---
+
+<div id="home">
+<h2>Arquivo</h2>
+<ul class="archives">
+{% for post in site.posts %}
+<li><span>{{ post.date | date_to_string }} </span> &raquo; <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a> &raquo; <span>tags: {{ post.categories }}</span></li>{% endfor %}
+</ul>
+</div>
